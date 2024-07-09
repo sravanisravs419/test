@@ -45,7 +45,7 @@
 			<version>2.2.1</version>
 			<scope>provided</scope>
 		</dependency>
-		<dependency>
+		<!--<dependency>
 			<groupId>org.codehaus.plexus</groupId>
 			<artifactId>plexus-utils</artifactId>
 			<version>3.3.0</version>
@@ -54,7 +54,7 @@
 			<groupId>org.twdata.maven</groupId>
 			<artifactId>mojo-executor</artifactId>
 			<version>2.3.2</version>
-		</dependency>
+		</dependency> -->
 
 	</dependencies>
 
